@@ -1,7 +1,5 @@
 # Homelab Notes
 
-## English
-
 This repository contains my personal notes about Linux, networking, Proxmox, and AWS.
 
 ### Purpose
@@ -18,8 +16,6 @@ I created this repository to document my learning process and practical experime
 
 ---
 
-## 日本語
-
 このリポジトリは、Linux、ネットワーク、Proxmox、AWS に関する個人的な学習メモをまとめたものです。
 
 ### 目的
@@ -35,8 +31,6 @@ I created this repository to document my learning process and practical experime
 - AWS の基本構成
 
 ---
-
-## 한국어
 
 이 리포지토리는 Linux, 네트워크, Proxmox, AWS에 관한 개인 학습 기록을 정리한 공간입니다.
 
